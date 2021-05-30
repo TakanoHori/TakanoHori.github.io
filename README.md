@@ -22,7 +22,7 @@ GREE VR Studio Laboratory インターン (2019.10~) [[HP](https://vr.gree.net/)
 * Python
 * Swift
 
-## Contact
+## Link
 * [Twitter](https://twitter.com/TakanoHori): @TakanoHori
 * [GitHub](https://github.com/TakanoHori)
 * [Qiita](https://qiita.com/TakanoHori)
