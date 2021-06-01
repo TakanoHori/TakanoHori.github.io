@@ -21,6 +21,16 @@ GREE VR Studio Laboratory インターン (2019.10~) [[HP](https://vr.gree.net/)
 * 謎解きサークル【SHERLOCK】, 「【謎解き】ディスプレイからの脱出」, 第136回明大祭, November 1-3, 2020. [[HP](https://meiji-sherlock.studio.site/meidaisai2020)] [[明大祭HP](https://meidaisai.jp/136/sp/)]
     * PM, OP動画制作を担当
 
+## Articles/記事
+### 森勢研学生の情報発信
+森勢研究室での活動を発信する活動にて執筆した記事 [[マガジン](https://note.com/fms_moriselab/m/m4dc0e15c37cf)]
+* [本・プレ配属に向けた森勢研紹介](https://note.com/fms_moriselab/n/n85a294d8be9c)  
+FMS学科の後輩に向けた森勢研究室の紹介
+* [ミキサーを使った音楽体験](https://note.com/fms_moriselab/n/n85a294d8be9c)  
+2019年度のオープンキャンパスに出展した作品に関する記事
+* [はじめまして、森勢研究室ですっ！](https://note.com/fms_moriselab/n/nbed98e5a5837)  
+マガジンの初回として簡単な研究室紹介
+
 ## Skills/スキル
 ### Programming Languages
 * Processing
@@ -32,4 +42,3 @@ GREE VR Studio Laboratory インターン (2019.10~) [[HP](https://vr.gree.net/)
 * [GitHub](https://github.com/TakanoHori)
 * [Qiita](https://qiita.com/TakanoHori)
 * [note](https://note.com/takanohori)
-    * ゼミ活動をマガジンで公開中 - [森勢研学生の情報発信](https://note.com/fms_moriselab/m/m4dc0e15c37cf)
