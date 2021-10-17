@@ -4,3 +4,8 @@ title: Welcome to Takanori Horibe
 description: This is a summary of the activities.
 # show_downloads: false
 logo: /assets/img/icon.JPG
+
+source: .
+layouts_dir: _layouts
+includes_dir: _includes
+show_excerpts: true
