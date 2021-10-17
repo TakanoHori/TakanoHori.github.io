@@ -1,8 +1,8 @@
 # Takanori Horibe
 
 ## Careers/所属・経歴  
-明治大学 森勢研究室 (2019.04~) [[HP](http://www.isc.meiji.ac.jp/~mmorise/lab/)]  
-GREE VR Studio Laboratory インターン (2019.10~) [[HP](https://vr.gree.net/)] [[Twitter](https://twitter.com/VRStudioLab)]  
+明治大学 森勢研究室 (2019.04~) [[HP](http://www.isc.meiji.ac.jp/~mmorise/lab/)] [[note](https://note.com/fms_moriselab/m/m4dc0e15c37cf)]  
+GREE VR Studio Laboratory インターン (2019.10~) [[HP](https://vr.gree.net/)] [[Twitter](https://twitter.com/VRStudioLab)] [[note](https://note.com/reality_eng/m/m394ac85738b5)]  
 
 | Date | |
 | 2017.03 | 神奈川県 私立 山手学院高等学校 卒業 |
@@ -29,8 +29,6 @@ GREE VR Studio Laboratory インターン (2019.10~) [[HP](https://vr.gree.net/)
 FMS学科の後輩に向けた森勢研究室の紹介
 * [ミキサーを使った音楽体験](https://note.com/fms_moriselab/n/n85a294d8be9c)  
 2019年度のオープンキャンパスに出展した作品に関する記事
-* [はじめまして、森勢研究室ですっ！](https://note.com/fms_moriselab/n/nbed98e5a5837)  
-マガジンの初回として簡単な研究室紹介
 
 ## Skills/スキル
 ### Programming Languages
