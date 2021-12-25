@@ -1,4 +1,4 @@
-# Takanori Horibe
+# BIOGRAPHY
 [[Twitter](https://twitter.com/TakanoHori)] [[Facebook](https://www.facebook.com/t.takanori.horibe)] [[GitHub](https://github.com/TakanoHori)] [[Qiita](https://qiita.com/TakanoHori)] [[note](https://note.com/takanohori)]
 
 ## Careers/所属・経歴  
