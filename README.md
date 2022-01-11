@@ -24,7 +24,7 @@ GREE VR Studio Laboratory インターン (2019.10~) [[HP](https://vr.gree.net/)
 
 ## Works/作品
 ### サークル
-* 謎解きサークル【SHERLOCK】, 「【謎解き】ディスプレイからの脱出」, 第136回明大祭, November 1-3, 2020. [[HP](https://meiji-sherlock.studio.site/meidaisai2020)] [[明大祭HP](https://meidaisai.jp/136/sp/)]
+* 謎解きサークル【SHERLOCK】, 「【謎解き】ディスプレイからの脱出」, 第136回明大祭, November 1-3, 2020. [[WEB](https://meiji-sherlock.studio.site/projects/meidaisai2020)] [[明大祭WEB](https://meidaisai.jp/136/sp/)]
     * PM, OP動画制作を担当
 
 ## Articles/記事
