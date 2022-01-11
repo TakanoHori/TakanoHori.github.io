@@ -6,8 +6,8 @@
 GREE VR Studio Laboratory インターン (2019.10~) [[HP](https://vr.gree.net/)] [[Twitter](https://twitter.com/VRStudioLab)] [[note](https://note.com/reality_eng/m/m394ac85738b5)] [[SlideShare](https://www.slideshare.net/vrstudiolab)]  
 
 | Date | |
-| 2017.03 | 神奈川県 私立 山手学院高等学校 卒業 |
 | 2018.04 | 明治大学 総合数理学部 先端メディアサイエンス学科 入学 |
+| 2017.03 | 神奈川県 私立 山手学院高等学校 卒業 |
 
 ## Award/表彰
 * 情報処理学会音楽情報科学研究会 音学シンポジウム学生優秀発表賞 [[WEB](http://www.sigmus.jp/?page_id=4626)] [[表彰記事](http://www.fms-meiji.jp/archives/1399)]
