@@ -13,6 +13,7 @@ GREE VR Studio Laboratory インターン (2019.10~) [[WEB](https://vr.gree.net/
 * 情報処理学会音楽情報科学研究会 音学シンポジウム学生優秀発表賞 [[WEB](http://www.sigmus.jp/?page_id=4626)] [[表彰記事](http://www.fms-meiji.jp/archives/1399)]
 
 ## Publications/学術実績  
+* 中野友介, 加藤琢磨, 武政実玖, **堀部貴紀**, 白井暁彦,「Metaverse Christmas」, 芸術科学フォーラム2022 (2022/03/08). [[WEB](https://expressive-japan.art-science.org/)] [[note](https://note.com/reality_eng/n/nc63e1665affa)]
 * 白井暁彦, 中野友介, **堀部貴紀**, 「【研究ノート】ボイスチェンジャーサービスの研究開発を通したインターンによる次世代人材育成」, DHU JOURNAL Vol.08 2021. (2021/11/25) [[PDF](https://msl.dhw.ac.jp/wp-content/uploads/2021/11/DHUJOURNAL2021_P040.pdf)] [[SlideShare](https://www.slideshare.net/vrstudiolab/ss-250792325)]
 * **堀部貴紀**, 橋本順之, 白井暁彦, 森勢将雅, 「FFTライブラリを対象とした実時間Vocoderの速度比較」, 日本音響学会2021年秋季研究発表会, Online, September 7-9, 2021. (発表日8日) [[SlideShare](https://www.slideshare.net/vrstudiolab/fftvocoder)] [[note](https://note.com/reality_eng/n/nb9cf59fd9825)]
 * **堀部貴紀**, 白井暁彦, 森勢将雅, 「『転声こえうらない』を通したボイスチェンジャー品質改善のための定性分析と考察」, 日本音響学会2021年春季研究発表会, Online, March 10-12, 2021. (発表日11日) [[Slides](https://vr.gree.net/wp-content/uploads/2021/04/ASJ2021S-Slides-20210311.pdf)] [[SlideShare](https://www.slideshare.net/vrstudiolab/ss-245769023)]   
