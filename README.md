@@ -11,10 +11,13 @@ GREE VR Studio Laboratory インターン (2019.10~) [[WEB](https://vr.gree.net/
 | 2018.04 | 明治大学 総合数理学部 先端メディアサイエンス学科 入学 |
 | 2017.03 | 神奈川県 私立 山手学院高等学校 卒業 |
 
-## Award/表彰
+## Award  
 * 音学シンポジウム2020 音学シンポジウム学生優秀発表賞 [[WEB](http://www.sigmus.jp/?page_id=4626)] [[表彰記事](http://www.fms-meiji.jp/archives/1399)]
 
-## Publications/学術実績  
+## Publications   
+* **堀部貴紀**他,「NICOGRAPH2021参加報告」, 芸術科学会誌DiVA, vol. 52, pp. 24-29 [[WEB](https://art-science.org/diva/)] [[PDF](https://art-science.org/diva/pdf/diva52-hq.pdf)]
+
+## Academic Papers  
 ### 2022  
 * **堀部貴紀**, 森勢将雅,「演奏技能評価を目的とした初心者向け楽音解析アプリの試作」, 情報処理学会音楽情報科学研究会, vol. 2022-MUS-134, no. 57, pp. 1-3 (2022/06/18). [[WEB](https://www.ipsj.or.jp/kenkyukai/event/mus134slp142.html)] [[PDF](http://www.isc.meiji.ac.jp/~mmorise/lab/publication/paper/IPSJ-MUS22134057.pdf)] [[YouTube](https://youtu.be/8mJd11FFXOY)]
 * 中野友介, 加藤琢磨, 武政実玖, **堀部貴紀**, 白井暁彦,「Metaverse Christmas」, 芸術科学フォーラム2022 (2022/03/08). [[WEB](https://expressive-japan.art-science.org/)] [[note](https://note.com/reality_eng/n/nc63e1665affa)]
@@ -28,16 +31,11 @@ GREE VR Studio Laboratory インターン (2019.10~) [[WEB](https://vr.gree.net/
 * 白井暁彦, **堀部貴紀**, ブレディキーナ リュドミラ, 山崎勇祐, 坂口塔也, 中村清人, 栢之間諒汰,「【研究ノート】 Mozilla Hubsを用いたオンラインイベントのWebVR化」, DHU JOURNAL Vol.07 2020 (2020/11/26). [[PDF](https://msl.dhw.ac.jp/wp-content/uploads/2020/11/DHUJOURNAL2020_P045.pdf)]
 * **堀部貴紀**, 石原達馬, 白井暁彦, 森勢将雅,「『転声こえうらない』利用者の基本周波数分析」, 情報処理学会音楽情報科学研究会, vol. 2020-MUS-127, no. 18, pp. 1-6 (2020/06/06). [[WEB](http://www.sigmus.jp/?page_id=4626)] [[PDF](http://www.isc.meiji.ac.jp/~mmorise/lab/publication/paper/IPSJ-MUS20127018.pdf)] [[SlideShare](https://www.slideshare.net/vrstudiolab/full-version-236360511)] [[IPSJ](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=204756&item_no=1&page_id=13&block_id=8)] [[表彰記事](http://www.fms-meiji.jp/archives/1399)]
 
-## Conferences/発表
+## Conferences  
 ### 2021  
-* 加藤琢磨, **堀部貴紀**, 武政実玖, 中野友介, 山崎勇祐, 「REALITYアバターを様々なメタバースで活躍させてみた – GREE VR Studio Laboratory インターン研究成果発表」, GREE Tech Conference 2021 (2021/11/11). [[WEB](https://techcon.gree.jp/2021/session/ShortSession-8)] [[YouTube](https://youtu.be/c0ccys70N4g)] [[SlideShare](https://www.slideshare.net/vrstudiolab/reality-gree-vr-studio-laboratory-250717411)] [[note](https://note.com/reality_eng/n/n3a378aebb380)]
+* 加藤琢磨, **堀部貴紀**, 武政実玖, 中野友介, 山崎勇祐,「REALITYアバターを様々なメタバースで活躍させてみた – GREE VR Studio Laboratory インターン研究成果発表」, GREE Tech Conference 2021 (2021/11/11). [[WEB](https://techcon.gree.jp/2021/session/ShortSession-8)] [[YouTube](https://youtu.be/c0ccys70N4g)] [[SlideShare](https://www.slideshare.net/vrstudiolab/reality-gree-vr-studio-laboratory-250717411)] [[note](https://note.com/reality_eng/n/n3a378aebb380)]
 
-## Works/作品
-### サークル
-* 謎解きサークル【SHERLOCK】, 「【謎解き】ディスプレイからの脱出」, 第136回明大祭, November 1-3, 2020. [[WEB](https://meiji-sherlock.studio.site/projects/meidaisai2020)] [[明大祭WEB](https://meidaisai.jp/136/sp/)]
-    * PM, OP動画制作を担当
-
-## Articles/記事  
+## Articles  
 * MacOS Montereyに音声認識エンジンJuliusをHomebrew経由でインストールする。 [[note](https://note.com/takanohori/n/nfbcce96199ad)]
 * "世界のAR"に期間限定で挑戦！Niantic Lightship Global Jam参戦記 [[note](https://note.com/reality_eng/n/nd8ca52dc55d1)]
 * iOS Accelerateでボイチェン高速化に挑戦したインターン学生の話 [[note](https://note.com/reality_eng/n/n0cd9bd157df3)]
