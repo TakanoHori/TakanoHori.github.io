@@ -14,9 +14,6 @@ GREE VR Studio Laboratory インターン (2019.10~) [[WEB](https://vr.gree.net/
 ## Award  
 * 音学シンポジウム2020 音学シンポジウム学生優秀発表賞 [[WEB](http://www.sigmus.jp/?page_id=4626)] [[表彰記事](http://www.fms-meiji.jp/archives/1399)]
 
-## Publications   
-* **堀部貴紀**他,「NICOGRAPH2021参加報告」, 芸術科学会誌DiVA, vol. 52, pp. 24-29 [[WEB](https://art-science.org/diva/)] [[PDF](https://art-science.org/diva/pdf/diva52-hq.pdf)]
-
 ## Academic Papers  
 ### 2022  
 * **堀部貴紀**, 森勢将雅,「演奏技能評価を目的とした初心者向け楽音解析アプリの試作」, 情報処理学会音楽情報科学研究会, vol. 2022-MUS-134, no. 57, pp. 1-3 (2022/06/18). [[WEB](https://www.ipsj.or.jp/kenkyukai/event/mus134slp142.html)] [[PDF](http://www.isc.meiji.ac.jp/~mmorise/lab/publication/paper/IPSJ-MUS22134057.pdf)] [[YouTube](https://youtu.be/8mJd11FFXOY)]
@@ -30,6 +27,9 @@ GREE VR Studio Laboratory インターン (2019.10~) [[WEB](https://vr.gree.net/
 ### 2020    
 * 白井暁彦, **堀部貴紀**, ブレディキーナ リュドミラ, 山崎勇祐, 坂口塔也, 中村清人, 栢之間諒汰,「【研究ノート】 Mozilla Hubsを用いたオンラインイベントのWebVR化」, DHU JOURNAL Vol.07 2020 (2020/11/26). [[PDF](https://msl.dhw.ac.jp/wp-content/uploads/2020/11/DHUJOURNAL2020_P045.pdf)]
 * **堀部貴紀**, 石原達馬, 白井暁彦, 森勢将雅,「『転声こえうらない』利用者の基本周波数分析」, 情報処理学会音楽情報科学研究会, vol. 2020-MUS-127, no. 18, pp. 1-6 (2020/06/06). [[WEB](http://www.sigmus.jp/?page_id=4626)] [[PDF](http://www.isc.meiji.ac.jp/~mmorise/lab/publication/paper/IPSJ-MUS20127018.pdf)] [[SlideShare](https://www.slideshare.net/vrstudiolab/full-version-236360511)] [[IPSJ](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=204756&item_no=1&page_id=13&block_id=8)] [[表彰記事](http://www.fms-meiji.jp/archives/1399)]
+
+## Publications   
+* **堀部貴紀**他,「NICOGRAPH2021参加報告」, 芸術科学会誌DiVA, vol. 52, pp. 24-29 [[WEB](https://art-science.org/diva/)] [[PDF](https://art-science.org/diva/pdf/diva52-hq.pdf)]
 
 ## Conferences  
 ### 2021  
