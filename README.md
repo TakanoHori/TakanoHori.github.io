@@ -1,7 +1,7 @@
 # BIOGRAPHY
 [[Twitter](https://twitter.com/TakanoHori)] [[Facebook](https://www.facebook.com/t.takanori.horibe)] [[GitHub](https://github.com/TakanoHori)] [[Qiita](https://qiita.com/TakanoHori)] [[note](https://note.com/takanohori)]
 
-## Careers/所属・経歴  
+## Careers  
 明治大学 森勢研究室 (2019.04~) [[WEB](http://www.isc.meiji.ac.jp/~mmorise/lab/)] [[note](https://note.com/fms_moriselab/m/m4dc0e15c37cf)]  
 GREE VR Studio Laboratory インターン (2019.10~) [[WEB](https://vr.gree.net/)] [[Twitter](https://twitter.com/VRStudioLab)] [[note](https://note.com/reality_eng/m/m394ac85738b5)] [[SlideShare](https://www.slideshare.net/vrstudiolab)]  
 
@@ -32,8 +32,11 @@ GREE VR Studio Laboratory インターン (2019.10~) [[WEB](https://vr.gree.net/
 * **堀部貴紀**他,「NICOGRAPH2021参加報告」, 芸術科学会誌DiVA, vol. 52, pp. 24-29 [[WEB](https://art-science.org/diva/)] [[PDF](https://art-science.org/diva/pdf/diva52-hq.pdf)]
 
 ## Conferences  
+### 2022  
+* CEDEC2022,「オープンソースで構築するWebメタバース ～Mozilla Hubsで学ぶUX開発から運用コスト最小化まで」(2022/08/23). [[WEB](https://cedec.cesa.or.jp/2022/session/detail/71)]
+
 ### 2021  
-* 加藤琢磨, **堀部貴紀**, 武政実玖, 中野友介, 山崎勇祐,「REALITYアバターを様々なメタバースで活躍させてみた – GREE VR Studio Laboratory インターン研究成果発表」, GREE Tech Conference 2021 (2021/11/11). [[WEB](https://techcon.gree.jp/2021/session/ShortSession-8)] [[YouTube](https://youtu.be/c0ccys70N4g)] [[SlideShare](https://www.slideshare.net/vrstudiolab/reality-gree-vr-studio-laboratory-250717411)] [[note](https://note.com/reality_eng/n/n3a378aebb380)]
+* GREE Tech Conference 2021,「REALITYアバターを様々なメタバースで活躍させてみた – GREE VR Studio Laboratory インターン研究成果発表」(2021/11/11). [[WEB](https://techcon.gree.jp/2021/session/ShortSession-8)] [[YouTube](https://youtu.be/c0ccys70N4g)] [[SlideShare](https://www.slideshare.net/vrstudiolab/reality-gree-vr-studio-laboratory-250717411)] [[note](https://note.com/reality_eng/n/n3a378aebb380)]
 
 ## Articles  
 * MacOS Montereyに音声認識エンジンJuliusをHomebrew経由でインストールする。 [[note](https://note.com/takanohori/n/nfbcce96199ad)]
@@ -42,6 +45,6 @@ GREE VR Studio Laboratory インターン (2019.10~) [[WEB](https://vr.gree.net/
 * 本・プレ配属に向けた森勢研紹介 [[note](https://note.com/fms_moriselab/n/n5b9a53329bef)]
 * ミキサーを使った音楽体験 [[note](https://note.com/fms_moriselab/n/n85a294d8be9c)]  
 
-## Skills/スキル
+## Skills
 ### Programming Languages
 Processing, Python, Swift
