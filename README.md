@@ -12,9 +12,13 @@ GREE VR Studio Laboratory インターン (2019.10~) [[WEB](https://vr.gree.net/
 | 2017.03 | 神奈川県 私立 山手学院高等学校 卒業 |
 
 ## Award  
-* 音学シンポジウム2020 音学シンポジウム学生優秀発表賞 [[WEB](http://www.sigmus.jp/?page_id=4626)] [[表彰記事](http://www.fms-meiji.jp/archives/1399)]
+* Yusuke Yamazaki, **Takanori Horibe**, Akihiko Shirai, "Best Short Paper Award", Cyberworlds2022 [[WEB](https://art-science.org/cyberworlds/cw22/)] [[Tweet](https://twitter.com/VRStudioLab/status/1575432742577221633)] [[表彰記事](https://www.meiji.ac.jp/ams/info/mkmht0000001qt8s.html)]
+* **堀部貴紀**,「音学シンポジウム学生優秀発表賞」, 音学シンポジウム2020 [[WEB](http://www.sigmus.jp/?page_id=4626)] [[表彰記事](http://www.fms-meiji.jp/archives/1399)]
 
 ## Academic Papers  
+### Accepted  
+* Yusuke Yamazaki, **Takanori Horibe**, Akihiko Shirai, "Evaluation of Time-Shifted Emotion Through Shared Emoji Reactions in a Video Watching Experience", 2022 International Conference on Cyberworlds, pp. 110-113, doi: 10.1109/CW55638.2022.00024 (2022/09/27). [[WEB](https://art-science.org/cyberworlds/cw22/)] [[Tweet](https://twitter.com/VRStudioLab/status/1574676820506836993)] [[Tweet](https://twitter.com/VRStudioLab/status/1575432742577221633)] [[表彰記事](https://www.meiji.ac.jp/ams/info/mkmht0000001qt8s.html)]
+
 ### 2022  
 * **堀部貴紀**, 森勢将雅, 河原英紀,「自動推定された音素境界とフォルマントによる音声モーフィングの品質評価」, 日本音響学会2022年秋季研究発表会 (2022/09/15).
 * **堀部貴紀**, 森勢将雅,「演奏技能評価を目的とした初心者向け楽音解析アプリの試作」, 情報処理学会音楽情報科学研究会, vol. 2022-MUS-134, no. 57, pp. 1-3 (2022/06/18). [[WEB](https://www.ipsj.or.jp/kenkyukai/event/mus134slp142.html)] [[PDF](http://www.isc.meiji.ac.jp/~mmorise/lab/publication/paper/IPSJ-MUS22134057.pdf)] [[YouTube](https://youtu.be/8mJd11FFXOY)]
