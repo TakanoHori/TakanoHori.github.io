@@ -1,5 +1,5 @@
 # BIOGRAPHY
-[[Twitter](https://twitter.com/TakanoHori)] [[Facebook](https://www.facebook.com/t.takanori.horibe)] [[GitHub](https://github.com/TakanoHori)] [[Qiita](https://qiita.com/TakanoHori)] [[note](https://note.com/takanohori)]
+[[Facebook](https://www.facebook.com/t.takanori.horibe)] [[GitHub](https://github.com/TakanoHori)] [[Qiita](https://qiita.com/TakanoHori)] [[note](https://note.com/takanohori)]
 
 ## Careers  
 明治大学 森勢研究室 (2019.04~) [[WEB](http://www.isc.meiji.ac.jp/~mmorise/lab/)] [[note](https://note.com/fms_moriselab/m/m4dc0e15c37cf)]  
