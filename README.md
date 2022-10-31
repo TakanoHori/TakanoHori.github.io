@@ -38,7 +38,7 @@ GREE VR Studio Laboratory インターン (2019.10~) [[WEB](https://vr.gree.net/
 
 ## Conferences  
 ### 2022  
-* CEDEC2022,「オープンソースで構築するWebメタバース ～Mozilla Hubsで学ぶUX開発から運用コスト最小化まで」(2022/08/23). [[WEB](https://cedec.cesa.or.jp/2022/session/detail/71)]
+* CEDEC2022,「オープンソースで構築するWebメタバース ～Mozilla Hubsで学ぶUX開発から運用コスト最小化まで」(2022/08/23). [[WEB](https://cedec.cesa.or.jp/2022/session/detail/71)] [[SlideShare](https://www.slideshare.net/vrstudiolab/web-mozilla-hubsux-cedec2022)]
 
 ### 2021  
 * GREE Tech Conference 2021,「REALITYアバターを様々なメタバースで活躍させてみた – GREE VR Studio Laboratory インターン研究成果発表」(2021/11/11). [[WEB](https://techcon.gree.jp/2021/session/ShortSession-8)] [[YouTube](https://youtu.be/c0ccys70N4g)] [[SlideShare](https://www.slideshare.net/vrstudiolab/reality-gree-vr-studio-laboratory-250717411)] [[note](https://note.com/reality_eng/n/n3a378aebb380)]
