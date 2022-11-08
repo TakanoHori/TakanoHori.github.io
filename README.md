@@ -12,12 +12,12 @@ GREE VR Studio Laboratory インターン (2019.10~) [[WEB](https://vr.gree.net/
 | 2017.03 | 神奈川県 私立 山手学院高等学校 卒業 |
 
 ## Award  
-* Yusuke Yamazaki, **Takanori Horibe**, Akihiko Shirai, "Best Short Paper Award", Cyberworlds2022 [[WEB](https://art-science.org/cyberworlds/cw22/)] [[Tweet](https://twitter.com/VRStudioLab/status/1575432742577221633)] [[表彰記事](https://www.meiji.ac.jp/ams/info/mkmht0000001qt8s.html)]
+* Yusuke Yamazaki, **Takanori Horibe**, Akihiko Shirai, "Best Short Paper Award", Cyberworlds2022 [[WEB](https://art-science.org/cyberworlds/cw22/)] [[IEEE](https://ieeexplore.ieee.org/document/9937393)] [[Tweet](https://twitter.com/VRStudioLab/status/1575432742577221633)] [[表彰記事](https://www.meiji.ac.jp/ams/info/mkmht0000001qt8s.html)]
 * **堀部貴紀**,「音学シンポジウム学生優秀発表賞」, 音学シンポジウム2020 [[WEB](http://www.sigmus.jp/?page_id=4626)] [[表彰記事](http://www.fms-meiji.jp/archives/1399)]
 
 ## Academic Papers  
 ### Accepted  
-* Yusuke Yamazaki, **Takanori Horibe**, Akihiko Shirai, "Evaluation of Time-Shifted Emotion Through Shared Emoji Reactions in a Video Watching Experience", 2022 International Conference on Cyberworlds, pp. 110-113, doi: 10.1109/CW55638.2022.00024 (2022/09/27). [[WEB](https://art-science.org/cyberworlds/cw22/)] [[Tweet](https://twitter.com/VRStudioLab/status/1574676820506836993)] [[Tweet](https://twitter.com/VRStudioLab/status/1575432742577221633)] [[表彰記事](https://www.meiji.ac.jp/ams/info/mkmht0000001qt8s.html)]
+* Yusuke Yamazaki, **Takanori Horibe**, Akihiko Shirai, "Evaluation of Time-Shifted Emotion Through Shared Emoji Reactions in a Video Watching Experience", 2022 International Conference on Cyberworlds, pp. 110-113, doi: 10.1109/CW55638.2022.00024 (2022/09/27). [[WEB](https://art-science.org/cyberworlds/cw22/)] [[IEEE](https://ieeexplore.ieee.org/document/9937393)] [[Tweet](https://twitter.com/VRStudioLab/status/1574676820506836993)] [[Tweet](https://twitter.com/VRStudioLab/status/1575432742577221633)] [[表彰記事](https://www.meiji.ac.jp/ams/info/mkmht0000001qt8s.html)]
 
 ### 2022  
 * **堀部貴紀**, 森勢将雅, 河原英紀,「自動推定された音素境界とフォルマントによる音声モーフィングの品質評価」, 日本音響学会2022年秋季研究発表会 (2022/09/15).
