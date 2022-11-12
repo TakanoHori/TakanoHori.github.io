@@ -56,4 +56,4 @@ GREE VR Studio Laboratory インターン (2019.10~) [[WEB](https://vr.gree.net/
 
 ## Skills
 ### Programming Languages
-Processing, Python, Swift
+Processing, Python, Swift, MATLAB
