@@ -45,6 +45,7 @@ GREE VR Studio Laboratory インターン (2019.10~) [[WEB](https://vr.gree.net/
 * GREE Tech Conference 2021,「REALITYアバターを様々なメタバースで活躍させてみた – GREE VR Studio Laboratory インターン研究成果発表」(2021/11/11). [[WEB](https://techcon.gree.jp/2021/session/ShortSession-8)] [[YouTube](https://youtu.be/c0ccys70N4g)] [[SlideShare](https://www.slideshare.net/vrstudiolab/reality-gree-vr-studio-laboratory-250717411)] [[note](https://note.com/reality_eng/n/n3a378aebb380)]
 
 ## Articles  
+* Webメタバース開発から運用コスト最小化まで #CEDEC2022 発表体験記 [[note](https://note.com/reality_eng/n/n6f6f58caa7da)]
 * Praat in Pythonでフォルマント分析してみる．[[note](https://note.com/takanohori/n/n8bec6724d3ae)]
 * メタバースの研究開発を360°動画で表現する - PremierePro/ambiXでパイプライン構築 [[note](https://note.com/reality_eng/n/n52e148c52636)]
 * MacOS Montereyに音声認識エンジンJuliusをHomebrew経由でインストールする。 [[note](https://note.com/takanohori/n/nfbcce96199ad)]
