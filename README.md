@@ -17,6 +17,7 @@ GREE VR Studio Laboratory インターン (2019.10~) [[WEB](https://vr.gree.net/
 
 ## Academic Papers  
 ### Accepted  
+* Takuma Kato, Tomosuke Nakano, **Takanori Horibe**, Miku Takemasa, Yusuke Yamazaki, Akihiko Shirai, “Cross-platforming “School life metaverse” user experience”, SIGGRAPH Asia 2022 Posters (2022/12/01). [[WEB](https://sa2022.siggraph.org/en/presentation/?id=pos_198&sess=sess189)]
 * Yusuke Yamazaki, **Takanori Horibe**, Akihiko Shirai, "Evaluation of Time-Shifted Emotion Through Shared Emoji Reactions in a Video Watching Experience", 2022 International Conference on Cyberworlds, pp. 110-113, doi: 10.1109/CW55638.2022.00024 (2022/09/27). [[WEB](https://art-science.org/cyberworlds/cw22/)] [[IEEE](https://ieeexplore.ieee.org/document/9937393)] [[Tweet](https://twitter.com/VRStudioLab/status/1574676820506836993)] [[Tweet](https://twitter.com/VRStudioLab/status/1575432742577221633)] [[表彰記事](https://www.meiji.ac.jp/ams/info/mkmht0000001qt8s.html)]
 
 ### 2022  
