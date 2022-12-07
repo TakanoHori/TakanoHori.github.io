@@ -3,7 +3,7 @@
 
 ## Careers  
 明治大学 森勢研究室 (2019.04~) [[WEB](http://www.isc.meiji.ac.jp/~mmorise/lab/)] [[note](https://note.com/fms_moriselab/m/m4dc0e15c37cf)]  
-GREE VR Studio Laboratory インターン (2019.10~2022.10) [[WEB](https://vr.gree.net/)] [[Twitter](https://twitter.com/VRStudioLab)] [[note](https://note.com/reality_eng/m/m394ac85738b5)] [[SlideShare](https://www.slideshare.net/vrstudiolab)]  
+GREE VR Studio Laboratory インターン (2019.10~2022.11) [[WEB](https://vr.gree.net/)] [[Twitter](https://twitter.com/VRStudioLab)] [[note](https://note.com/reality_eng/m/m394ac85738b5)] [[SlideShare](https://www.slideshare.net/vrstudiolab)]  
 
 | Date | |
 | 2022.04 | 明治大学大学院 先端数理科学研究科 先端メディアサイエンス専攻 入学 |
