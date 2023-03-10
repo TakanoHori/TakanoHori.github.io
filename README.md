@@ -20,6 +20,9 @@ GREE VR Studio Laboratory インターン (2019.10~2022.10) [[WEB](https://vr.gr
 * Takuma Kato, Tomosuke Nakano, **Takanori Horibe**, Miku Takemasa, Yusuke Yamazaki, Akihiko Shirai, “Cross-platforming “School life metaverse” user experience”, SIGGRAPH Asia 2022 Posters (2022/12/01). [[WEB](https://sa2022.siggraph.org/en/presentation/?id=pos_198&sess=sess189)] [[ACM](https://dl.acm.org/doi/10.1145/3550082.3564200)]
 * Yusuke Yamazaki, **Takanori Horibe**, Akihiko Shirai, "Evaluation of Time-Shifted Emotion Through Shared Emoji Reactions in a Video Watching Experience", 2022 International Conference on Cyberworlds, pp. 110-113, doi: 10.1109/CW55638.2022.00024 (2022/09/27). [[WEB](https://art-science.org/cyberworlds/cw22/)] [[IEEE](https://ieeexplore.ieee.org/document/9937393)] [[note](https://note.com/reality_eng/n/n0453663261e0)] [[表彰記事](https://www.meiji.ac.jp/ams/info/mkmht0000001qt8s.html)] [[Tweet](https://twitter.com/VRStudioLab/status/1575432742577221633)] 
 
+### 2023
+* **堀部貴紀**, 森勢将雅, 河原英紀,「音声モーフィングにおける時間軸方向の対応点数が品質に与える影響」, 日本音響学会第149回(2023年春季)研究発表会 (2023/03/15).
+
 ### 2022  
 * **堀部貴紀**, 森勢将雅, 河原英紀,「自動推定された音素境界とフォルマントによる音声モーフィングの品質評価」, 日本音響学会2022年秋季研究発表会 (2022/09/15).
 * **堀部貴紀**, 森勢将雅,「演奏技能評価を目的とした初心者向け楽音解析アプリの試作」, 情報処理学会音楽情報科学研究会, vol. 2022-MUS-134, no. 57, pp. 1-3 (2022/06/18). [[WEB](https://www.ipsj.or.jp/kenkyukai/event/mus134slp142.html)] [[PDF](http://www.isc.meiji.ac.jp/~mmorise/lab/publication/paper/IPSJ-MUS22134057.pdf)] [[YouTube](https://youtu.be/8mJd11FFXOY)]
