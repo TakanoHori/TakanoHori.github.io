@@ -24,7 +24,7 @@ GREE VR Studio Laboratory インターン (2019.10~2022.10) [[WEB](https://vr.gr
 * **堀部貴紀**, 森勢将雅, 河原英紀,「音声モーフィングにおける時間軸方向の対応点数が品質に与える影響」, 日本音響学会第149回(2023年春季)研究発表会 (2023/03/15).
 
 ### 2022  
-* **堀部貴紀**, 森勢将雅, 河原英紀,「自動推定された音素境界とフォルマントによる音声モーフィングの品質評価」, 日本音響学会2022年秋季研究発表会 (2022/09/15).
+* **堀部貴紀**, 森勢将雅, 河原英紀,「自動推定された音素境界とフォルマントによる音声モーフィングの品質評価」, 日本音響学会2022年秋季研究発表会 (2022/09/15). [[Poster](https://takanohori.github.io/speech-morphing/ASJ2022A_poster_published.pdf)]
 * **堀部貴紀**, 森勢将雅,「演奏技能評価を目的とした初心者向け楽音解析アプリの試作」, 情報処理学会音楽情報科学研究会, vol. 2022-MUS-134, no. 57, pp. 1-3 (2022/06/18). [[WEB](https://www.ipsj.or.jp/kenkyukai/event/mus134slp142.html)] [[PDF](http://www.isc.meiji.ac.jp/~mmorise/lab/publication/paper/IPSJ-MUS22134057.pdf)] [[YouTube](https://youtu.be/8mJd11FFXOY)]
 * 中野友介, 加藤琢磨, 武政実玖, **堀部貴紀**, 白井暁彦,「Metaverse Christmas」, 芸術科学フォーラム2022 (2022/03/08). [[WEB](https://expressive-japan.art-science.org/)] [[note](https://note.com/reality_eng/n/nc63e1665affa)]
 
