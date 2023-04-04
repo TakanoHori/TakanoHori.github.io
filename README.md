@@ -21,7 +21,7 @@ GREE VR Studio Laboratory インターン (2019.10~2022.11) [[WEB](https://vr.gr
 * Yusuke Yamazaki, **Takanori Horibe**, Akihiko Shirai, "Evaluation of Time-Shifted Emotion Through Shared Emoji Reactions in a Video Watching Experience", 2022 International Conference on Cyberworlds, pp. 110-113, doi: 10.1109/CW55638.2022.00024 (2022/09/27). [[WEB](https://art-science.org/cyberworlds/cw22/)] [[IEEE](https://ieeexplore.ieee.org/document/9937393)] [[note](https://note.com/reality_eng/n/n0453663261e0)] [[表彰記事](https://www.meiji.ac.jp/ams/info/mkmht0000001qt8s.html)] [[Tweet](https://twitter.com/VRStudioLab/status/1575432742577221633)] 
 
 ### 2023
-* **堀部貴紀**, 森勢将雅, 河原英紀,「音声モーフィングにおける時間軸方向の対応点数が品質に与える影響」, 日本音響学会第149回(2023年春季)研究発表会 (2023/03/15).
+* **堀部貴紀**, 森勢将雅, 河原英紀,「音声モーフィングにおける時間軸方向の対応点数が品質に与える影響」, 日本音響学会第149回(2023年春季)研究発表会 (2023/03/15). [[Poster](https://takanohori.github.io/speech-morphing/ASJ2023S_poster_published.pdf)]
 
 ### 2022  
 * **堀部貴紀**, 森勢将雅, 河原英紀,「自動推定された音素境界とフォルマントによる音声モーフィングの品質評価」, 日本音響学会2022年秋季研究発表会 (2022/09/15). [[Poster](https://takanohori.github.io/speech-morphing/ASJ2022A_poster_published.pdf)]
