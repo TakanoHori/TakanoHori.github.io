@@ -18,7 +18,7 @@ GREE VR Studio Laboratory インターン (2019.10~2022.11) [[WEB](https://vr.gr
 ## Academic Papers  
 ### Accepted  
 * Takuma Kato, Tomosuke Nakano, **Takanori Horibe**, Miku Takemasa, Yusuke Yamazaki, Akihiko Shirai, “Cross-platforming “School life metaverse” user experience”, SIGGRAPH Asia 2022 Posters (2022/12/01). [[WEB](https://sa2022.siggraph.org/en/presentation/?id=pos_198&sess=sess189)] [[ACM](https://dl.acm.org/doi/10.1145/3550082.3564200)]
-* Yusuke Yamazaki, **Takanori Horibe**, Akihiko Shirai, "Evaluation of Time-Shifted Emotion Through Shared Emoji Reactions in a Video Watching Experience", 2022 International Conference on Cyberworlds, pp. 110-113, doi: 10.1109/CW55638.2022.00024 (2022/09/27). [[WEB](https://art-science.org/cyberworlds/cw22/)] [[IEEE](https://ieeexplore.ieee.org/document/9937393)] [[note](https://note.com/reality_eng/n/n0453663261e0)] [[表彰記事](https://www.meiji.ac.jp/ams/info/mkmht0000001qt8s.html)] [[Tweet](https://twitter.com/VRStudioLab/status/1575432742577221633)] 
+* Yusuke Yamazaki, **Takanori Horibe**, Akihiko Shirai, "Evaluation of Time-Shifted Emotion Through Shared Emoji Reactions in a Video Watching Experience", 2022 International Conference on Cyberworlds, pp. 110-113, doi: 10.1109/CW55638.2022.00024 (2022/09/27). [[WEB](https://art-science.org/cyberworlds/cw22/)] [[IEEE](https://ieeexplore.ieee.org/document/9937393)] [[SlideShare](https://www.slideshare.net/vrstudiolab/evaluation-of-timeshifted-emotion-through-shared-emoji-reactions-in-a-video-watching-experience-cyberworlds2022)] [[note](https://note.com/reality_eng/n/n0453663261e0)] [[表彰記事](https://www.meiji.ac.jp/ams/info/mkmht0000001qt8s.html)] [[Tweet](https://twitter.com/VRStudioLab/status/1575432742577221633)] 
 
 ### 2023
 * **堀部貴紀**, 森勢将雅, 河原英紀,「音声モーフィングにおける時間軸方向の対応点数が品質に与える影響」, 日本音響学会第149回(2023年春季)研究発表会 (2023/03/15). [[Poster](https://takanohori.github.io/speech-morphing/ASJ2023S_poster_published.pdf)]
@@ -45,16 +45,8 @@ GREE VR Studio Laboratory インターン (2019.10~2022.11) [[WEB](https://vr.gr
 * CEDEC2022,「オープンソースで構築するWebメタバース ～Mozilla Hubsで学ぶUX開発から運用コスト最小化まで」(2022/08/23). [[WEB](https://cedec.cesa.or.jp/2022/session/detail/71)] [[SlideShare](https://www.slideshare.net/vrstudiolab/web-mozilla-hubsux-cedec2022)] [[note](https://note.com/reality_eng/n/n6f6f58caa7da)]
 * GREE Tech Conference 2021,「REALITYアバターを様々なメタバースで活躍させてみた – GREE VR Studio Laboratory インターン研究成果発表」(2021/11/11). [[WEB](https://techcon.gree.jp/2021/session/ShortSession-8)] [[YouTube](https://youtu.be/c0ccys70N4g)] [[SlideShare](https://www.slideshare.net/vrstudiolab/reality-gree-vr-studio-laboratory-250717411)] [[note](https://note.com/reality_eng/n/n3a378aebb380)]
 
-## Articles  
-* 絵文字を使ってメタバースの感情を評価する #Cyberworlds2022 [[note](https://note.com/reality_eng/n/n0453663261e0)]
-* Webメタバース開発から運用コスト最小化まで #CEDEC2022 発表体験記 [[note](https://note.com/reality_eng/n/n6f6f58caa7da)]
-* Praat in Pythonでフォルマント分析してみる．[[note](https://note.com/takanohori/n/n8bec6724d3ae)]
-* メタバースの研究開発を360°動画で表現する - PremierePro/ambiXでパイプライン構築 [[note](https://note.com/reality_eng/n/n52e148c52636)]
-* MacOS Montereyに音声認識エンジンJuliusをHomebrew経由でインストールする。 [[note](https://note.com/takanohori/n/nfbcce96199ad)]
-* "世界のAR"に期間限定で挑戦！Niantic Lightship Global Jam参戦記 [[note](https://note.com/reality_eng/n/nd8ca52dc55d1)]
-* iOS Accelerateでボイチェン高速化に挑戦したインターン学生の話 [[note](https://note.com/reality_eng/n/n0cd9bd157df3)]
-* 本・プレ配属に向けた森勢研紹介 [[note](https://note.com/fms_moriselab/n/n5b9a53329bef)]
-* ミキサーを使った音楽体験 [[note](https://note.com/fms_moriselab/n/n85a294d8be9c)]  
+## Blogs  
+[Blogs](Blogs.md)をご覧ください。
 
 ## Skills
 ### Programming Languages
