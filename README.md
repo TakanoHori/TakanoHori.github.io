@@ -3,7 +3,7 @@
 
 ## Careers  
 明治大学 森勢研究室 (2019.04~) [[WEB](http://www.isc.meiji.ac.jp/~mmorise/lab/)] [[note](https://note.com/fms_moriselab/m/m4dc0e15c37cf)]  
-GREE VR Studio Laboratory インターン (2019.10~2022.10) [[WEB](https://vr.gree.net/)] [[Twitter](https://twitter.com/VRStudioLab)] [[note](https://note.com/reality_eng/m/m394ac85738b5)] [[SlideShare](https://www.slideshare.net/vrstudiolab)]  
+GREE VR Studio Laboratory インターン (2019.10~2022.11) [[WEB](https://vr.gree.net/)] [[Twitter](https://twitter.com/VRStudioLab)] [[note](https://note.com/reality_eng/m/m394ac85738b5)] [[SlideShare](https://www.slideshare.net/vrstudiolab)]  
 
 | Date | |
 | 2022.04 | 明治大学大学院 先端数理科学研究科 先端メディアサイエンス専攻 入学 |
@@ -24,6 +24,7 @@ GREE VR Studio Laboratory インターン (2019.10~2022.10) [[WEB](https://vr.gr
 * 蟹江世莉奈, 小口純矢, **堀部貴紀**, 森勢将雅,「エレキベースを対象とした楽器音のリリースエンベロープが自然性に与える影響」, 日本音響学会第150回(2023年秋季)研究発表会 (2023/09/26).
 * 田鎖佑弥, **堀部貴紀**, 小口純矢, 森勢将雅,「リファレンスを必要としない相対的な音質評価に向けたMUSHRA法の改良について」, 日本音響学会第150回(2023年秋季)研究発表会 (2023/09/26).
 * **堀部貴紀**, 森勢将雅, 河原英紀,「音声モーフィングにおける時間軸方向の対応点数が品質に与える影響」, 日本音響学会第149回(2023年春季)研究発表会 (2023/03/15).
+* **堀部貴紀**, 森勢将雅, 河原英紀,「音声モーフィングにおける時間軸方向の対応点数が品質に与える影響」, 日本音響学会第149回(2023年春季)研究発表会 (2023/03/15). [[Poster](https://takanohori.github.io/speech-morphing/ASJ2023S_poster_published.pdf)]
 
 ### 2022  
 * **堀部貴紀**, 森勢将雅, 河原英紀,「自動推定された音素境界とフォルマントによる音声モーフィングの品質評価」, 日本音響学会2022年秋季研究発表会 (2022/09/15). [[Poster](https://takanohori.github.io/speech-morphing/ASJ2022A_poster_published.pdf)]
