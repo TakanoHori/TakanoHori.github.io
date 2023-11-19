@@ -17,16 +17,17 @@ GREE VR Studio Laboratory インターン (2019.10~2022.11) [[WEB](https://vr.gr
 
 ## Academic Papers  
 ### Accepted  
+* **Takanori Horibe**, Masanori Morise, "Development of an easily-usable smartphone application for recording instrumental sounds", Proc. 16th International Symposium on Computer Music Multidisciplinary Research, pp. 728–731, doi: 10.5281/zenodo.10113404 (2023/11/15). [[WEB](https://cmmr2023.gttm.jp)] [[Zenodo](https://zenodo.org/records/10113404)] [[YouTube](https://youtu.be/K-AOkXbkIzY)] [[Poster](posters/cmmr2023_poster_published.pdf)]
 * Takuma Kato, Tomosuke Nakano, **Takanori Horibe**, Miku Takemasa, Yusuke Yamazaki, Akihiko Shirai, “Cross-platforming “School life metaverse” user experience”, SIGGRAPH Asia 2022 Posters, No. 47, pp. 1–2, doi: 10.1145/3550082.3564200 (2022/12/01). [[WEB](https://sa2022.siggraph.org/en/presentation/?id=pos_198&sess=sess189)] [[ACM](https://dl.acm.org/doi/10.1145/3550082.3564200)]
 * Yusuke Yamazaki, **Takanori Horibe**, Akihiko Shirai, "Evaluation of Time-Shifted Emotion Through Shared Emoji Reactions in a Video Watching Experience", 2022 International Conference on Cyberworlds, pp. 110-113, doi: 10.1109/CW55638.2022.00024 (2022/09/27). [[WEB](https://art-science.org/cyberworlds/cw22/)] [[IEEE](https://ieeexplore.ieee.org/document/9937393)] [[SlideShare](https://www.slideshare.net/vrstudiolab/evaluation-of-timeshifted-emotion-through-shared-emoji-reactions-in-a-video-watching-experience-cyberworlds2022)] [[note](https://note.com/reality_eng/n/n0453663261e0)] [[表彰記事](https://www.meiji.ac.jp/ams/info/mkmht0000001qt8s.html)] [[Tweet](https://twitter.com/VRStudioLab/status/1575432742577221633)] 
 
 ### 2023
 * 蟹江世莉奈, 小口純矢, **堀部貴紀**, 森勢将雅,「エレキベースを対象とした楽器音のリリースエンベロープが自然性に与える影響」, 日本音響学会第150回(2023年秋季)研究発表会 (2023/09/26).
 * 田鎖佑弥, **堀部貴紀**, 小口純矢, 森勢将雅,「リファレンスを必要としない相対的な音質評価に向けたMUSHRA法の改良について」, 日本音響学会第150回(2023年秋季)研究発表会 (2023/09/26).
-* **堀部貴紀**, 森勢将雅, 河原英紀,「音声モーフィングにおける時間軸方向の対応点数が品質に与える影響」, 日本音響学会第149回(2023年春季)研究発表会 (2023/03/15). [[Poster](https://takanohori.github.io/speech-morphing/ASJ2023S_poster_published.pdf)]
+* **堀部貴紀**, 森勢将雅, 河原英紀,「音声モーフィングにおける時間軸方向の対応点数が品質に与える影響」, 日本音響学会第149回(2023年春季)研究発表会 (2023/03/15). [[Poster](posters/asj2023s_poster_published.pdf)]
 
 ### 2022  
-* **堀部貴紀**, 森勢将雅, 河原英紀,「自動推定された音素境界とフォルマントによる音声モーフィングの品質評価」, 日本音響学会2022年秋季研究発表会 (2022/09/15). [[Poster](https://takanohori.github.io/speech-morphing/ASJ2022A_poster_published.pdf)]
+* **堀部貴紀**, 森勢将雅, 河原英紀,「自動推定された音素境界とフォルマントによる音声モーフィングの品質評価」, 日本音響学会2022年秋季研究発表会 (2022/09/15). [[Poster](posters/asj2022a_poster_published.pdf)]
 * **堀部貴紀**, 森勢将雅,「演奏技能評価を目的とした初心者向け楽音解析アプリの試作」, 情報処理学会音楽情報科学研究会, vol. 2022-MUS-134, no. 57, pp. 1-3 (2022/06/18). [[WEB](https://www.ipsj.or.jp/kenkyukai/event/mus134slp142.html)] [[PDF](http://www.isc.meiji.ac.jp/~mmorise/lab/publication/paper/IPSJ-MUS22134057.pdf)] [[YouTube](https://youtu.be/8mJd11FFXOY)]
 * 中野友介, 加藤琢磨, 武政実玖, **堀部貴紀**, 白井暁彦,「Metaverse Christmas」, 芸術科学フォーラム2022 (2022/03/08). [[WEB](https://expressive-japan.art-science.org/)] [[note](https://note.com/reality_eng/n/nc63e1665affa)]
 
