@@ -22,19 +22,19 @@ GREE VR Studio Laboratory インターン (2019.10~2022.11) [[WEB](https://vr.gr
 * Yusuke Yamazaki, **Takanori Horibe**, Akihiko Shirai, "Evaluation of Time-Shifted Emotion Through Shared Emoji Reactions in a Video Watching Experience", 2022 International Conference on Cyberworlds, pp. 110-113, doi: 10.1109/CW55638.2022.00024 (2022/09/27). [[WEB](https://art-science.org/cyberworlds/cw22/)] [[IEEE](https://ieeexplore.ieee.org/document/9937393)] [[SlideShare](https://www.slideshare.net/vrstudiolab/evaluation-of-timeshifted-emotion-through-shared-emoji-reactions-in-a-video-watching-experience-cyberworlds2022)] [[note](https://note.com/reality_eng/n/n0453663261e0)] [[表彰記事](https://www.meiji.ac.jp/ams/info/mkmht0000001qt8s.html)] [[Tweet](https://twitter.com/VRStudioLab/status/1575432742577221633)] 
 
 ### 2023
-* 蟹江世莉奈, 小口純矢, **堀部貴紀**, 森勢将雅,「エレキベースを対象とした楽器音のリリースエンベロープが自然性に与える影響」, 日本音響学会第150回(2023年秋季)研究発表会 (2023/09/26).
-* 田鎖佑弥, **堀部貴紀**, 小口純矢, 森勢将雅,「リファレンスを必要としない相対的な音質評価に向けたMUSHRA法の改良について」, 日本音響学会第150回(2023年秋季)研究発表会 (2023/09/26).
-* **堀部貴紀**, 森勢将雅, 河原英紀,「音声モーフィングにおける時間軸方向の対応点数が品質に与える影響」, 日本音響学会第149回(2023年春季)研究発表会 (2023/03/15). [[Poster](posters/asj2023s_poster_published.pdf)]
+* 蟹江世莉奈, 小口純矢, **堀部貴紀**, 森勢将雅,「エレキベースを対象とした楽器音のリリースエンベロープが自然性に与える影響」, 日本音響学会2023年秋季研究発表会, pp. 885-886 (2023/09/26).
+* 田鎖佑弥, **堀部貴紀**, 小口純矢, 森勢将雅,「リファレンスを必要としない相対的な音質評価に向けたMUSHRA法の改良について」, 日本音響学会2023年秋季研究発表会, pp. 823-824 (2023/09/26).
+* **堀部貴紀**, 森勢将雅, 河原英紀,「音声モーフィングにおける時間軸方向の対応点数が品質に与える影響」, 日本音響学会2023年春季研究発表会, pp. 789-790 (2023/03/15). [[Poster](posters/asj2023s_poster_published.pdf)]
 
 ### 2022  
-* **堀部貴紀**, 森勢将雅, 河原英紀,「自動推定された音素境界とフォルマントによる音声モーフィングの品質評価」, 日本音響学会2022年秋季研究発表会 (2022/09/15). [[Poster](posters/asj2022a_poster_published.pdf)]
 * **堀部貴紀**, 森勢将雅,「演奏技能評価を目的とした初心者向け楽音解析アプリの試作」, 情報処理学会音楽情報科学研究会, vol. 2022-MUS-134, no. 57, pp. 1-3 (2022/06/18). [[WEB](https://www.ipsj.or.jp/kenkyukai/event/mus134slp142.html)] [[PDF](http://www.isc.meiji.ac.jp/~mmorise/lab/publication/paper/IPSJ-MUS22134057.pdf)] [[YouTube](https://youtu.be/8mJd11FFXOY)]
 * 中野友介, 加藤琢磨, 武政実玖, **堀部貴紀**, 白井暁彦,「Metaverse Christmas」, 芸術科学フォーラム2022 (2022/03/08). [[WEB](https://expressive-japan.art-science.org/)] [[note](https://note.com/reality_eng/n/nc63e1665affa)]
+* **堀部貴紀**, 森勢将雅, 河原英紀,「自動推定された音素境界とフォルマントによる音声モーフィングの品質評価」, 日本音響学会2022年秋季研究発表会, pp. 1295-1296 (2022/09/15). [[Poster](posters/asj2022a_poster_published.pdf)]
 
 ### 2021  
 * 白井暁彦, 中野友介, **堀部貴紀**,「【研究ノート】ボイスチェンジャーサービスの研究開発を通したインターンによる次世代人材育成」, DHU JOURNAL Vol.08 2021 (2021/11/25). [[PDF](https://msl.dhw.ac.jp/wp-content/uploads/2021/11/DHUJOURNAL2021_P040.pdf)] [[SlideShare](https://www.slideshare.net/vrstudiolab/ss-250792325)]
-* **堀部貴紀**, 橋本順之, 白井暁彦, 森勢将雅,「FFTライブラリを対象とした実時間Vocoderの速度比較」, 日本音響学会2021年秋季研究発表会 (2021/09/08). [[SlideShare](https://www.slideshare.net/vrstudiolab/fftvocoder)] [[note](https://note.com/reality_eng/n/nb9cf59fd9825)]
-* **堀部貴紀**, 白井暁彦, 森勢将雅,「『転声こえうらない』を通したボイスチェンジャー品質改善のための定性分析と考察」, 日本音響学会2021年春季研究発表会 (2021/03/11). [[Slides](https://vr.gree.net/wp-content/uploads/2021/04/ASJ2021S-Slides-20210311.pdf)] [[SlideShare](https://www.slideshare.net/vrstudiolab/ss-245769023)]
+* **堀部貴紀**, 橋本順之, 白井暁彦, 森勢将雅,「FFTライブラリを対象とした実時間Vocoderの速度比較」, 日本音響学会2021年秋季研究発表会, pp. 1097-1100 (2021/09/08). [[SlideShare](https://www.slideshare.net/vrstudiolab/fftvocoder)] [[note](https://note.com/reality_eng/n/nb9cf59fd9825)]
+* **堀部貴紀**, 白井暁彦, 森勢将雅,「『転声こえうらない』を通したボイスチェンジャー品質改善のための定性分析と考察」, 日本音響学会2021年春季研究発表会, pp. 1063-1064 (2021/03/11). [[Slides](https://vr.gree.net/wp-content/uploads/2021/04/ASJ2021S-Slides-20210311.pdf)] [[SlideShare](https://www.slideshare.net/vrstudiolab/ss-245769023)]
 
 ### 2020    
 * 白井暁彦, **堀部貴紀**, ブレディキーナ リュドミラ, 山崎勇祐, 坂口塔也, 中村清人, 栢之間諒汰,「【研究ノート】 Mozilla Hubsを用いたオンラインイベントのWebVR化」, DHU JOURNAL Vol.07 2020 (2020/11/26). [[PDF](https://msl.dhw.ac.jp/wp-content/uploads/2020/11/DHUJOURNAL2020_P045.pdf)]
