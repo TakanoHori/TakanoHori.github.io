@@ -41,7 +41,7 @@ GREE VR Studio Laboratory インターン (2019.10~2022.11) [[WEB](https://vr.gr
 * **堀部貴紀**, 石原達馬, 白井暁彦, 森勢将雅,「『転声こえうらない』利用者の基本周波数分析」, 情報処理学会音楽情報科学研究会, vol. 2020-MUS-127, no. 18, pp. 1-6 (2020/06/06). [[WEB](http://www.sigmus.jp/?page_id=4626)] [[PDF](http://www.isc.meiji.ac.jp/~mmorise/lab/publication/paper/IPSJ-MUS20127018.pdf)] [[SlideShare](https://www.slideshare.net/vrstudiolab/full-version-236360511)] [[IPSJ](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=204756&item_no=1&page_id=13&block_id=8)] [[表彰記事](http://www.fms-meiji.jp/archives/1399)]
 
 ## Publications   
-* **堀部貴紀**他,「NICOGRAPH2021参加報告」, 芸術科学会誌DiVA, vol. 52, pp. 24-29 [[WEB](https://art-science.org/diva/)] [[PDF](https://art-science.org/diva/pdf/diva52-hq.pdf)]
+* **堀部貴紀**他,「NICOGRAPH2021参加報告」, 芸術科学会誌DiVA, vol. 52, pp. 24-29 (2022/06/30). [[WEB](https://art-science.org/diva/)] [[PDF](https://art-science.org/diva/pdf/diva52-hq.pdf)]
 
 ## Conferences  
 * GREE Tech Conference 2022,「GREE VR Studio Laboratory - UXDev R&D Summary 2022」(2022/10/25). [[WEB](https://techcon.gree.jp/2022/session/TrackA-8)] [[YouTube](https://youtu.be/NtmZPiTWyWI)] [[SpeakerDesk](https://speakerdeck.com/gree_tech/greetechcon2022-session-a-8)] (注: 堀部は録画による出演)
