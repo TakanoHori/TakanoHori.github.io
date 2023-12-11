@@ -15,7 +15,7 @@ GREE VR Studio Laboratory インターン (2019.10~2022.11) [[WEB](https://vr.gr
 * Yusuke Yamazaki, **Takanori Horibe**, Akihiko Shirai, "Best Short Paper Award", Cyberworlds2022 [[WEB](https://art-science.org/cyberworlds/cw22/)] [[IEEE](https://ieeexplore.ieee.org/document/9937393)] [[Tweet](https://twitter.com/VRStudioLab/status/1575432742577221633)] [[表彰記事](https://www.meiji.ac.jp/ams/info/mkmht0000001qt8s.html)]
 * **堀部貴紀**,「音学シンポジウム学生優秀発表賞」, 音学シンポジウム2020 [[WEB](http://www.sigmus.jp/?page_id=4626)] [[表彰記事](http://www.fms-meiji.jp/archives/1399)]
 
-## Academic Papers  
+## Publications  
 ### International Conferences  
 * **Takanori Horibe**, Masanori Morise, "Development of an easily-usable smartphone application for recording instrumental sounds", Proc. 16th International Symposium on Computer Music Multidisciplinary Research, pp. 728–731, doi: 10.5281/zenodo.10113404 (2023/11/15). [[WEB](https://cmmr2023.gttm.jp)] [[Zenodo](https://zenodo.org/records/10113404)] [[YouTube](https://youtu.be/K-AOkXbkIzY)] [[Poster](posters/cmmr2023_poster_published.pdf)]
 * Takuma Kato, Tomosuke Nakano, **Takanori Horibe**, Miku Takemasa, Yusuke Yamazaki, Akihiko Shirai, “Cross-platforming “School life metaverse” user experience”, SIGGRAPH Asia 2022 Posters, No. 47, pp. 1–2, doi: 10.1145/3550082.3564200 (2022/12/01). [[WEB](https://sa2022.siggraph.org/en/presentation/?id=pos_198&sess=sess189)] [[ACM](https://dl.acm.org/doi/10.1145/3550082.3564200)]
@@ -34,7 +34,7 @@ GREE VR Studio Laboratory インターン (2019.10~2022.11) [[WEB](https://vr.gr
 * **堀部貴紀**, 橋本順之, 白井暁彦, 森勢将雅,「FFTライブラリを対象とした実時間Vocoderの速度比較」, 日本音響学会2021年秋季研究発表会, pp. 1097-1100 (2021/09/08). [[SlideShare](https://www.slideshare.net/vrstudiolab/fftvocoder)] [[note](https://note.com/reality_eng/n/nb9cf59fd9825)]
 * **堀部貴紀**, 白井暁彦, 森勢将雅,「『転声こえうらない』を通したボイスチェンジャー品質改善のための定性分析と考察」, 日本音響学会2021年春季研究発表会, pp. 1063-1064 (2021/03/11). [[Slides](https://vr.gree.net/wp-content/uploads/2021/04/ASJ2021S-Slides-20210311.pdf)] [[SlideShare](https://www.slideshare.net/vrstudiolab/ss-245769023)]
 
-## Publications   
+### Others   
 * **堀部貴紀**他,「NICOGRAPH2021参加報告」, 芸術科学会誌DiVA, vol. 52, pp. 24-29 (2022/06/30). [[WEB](https://art-science.org/diva/)] [[PDF](https://art-science.org/diva/pdf/diva52-hq.pdf)]
 * 白井暁彦, 中野友介, **堀部貴紀**,「【研究ノート】ボイスチェンジャーサービスの研究開発を通したインターンによる次世代人材育成」, DHU JOURNAL Vol.08 2021 (2021/11/25). [[PDF](https://msl.dhw.ac.jp/wp-content/uploads/2021/11/DHUJOURNAL2021_P040.pdf)] [[SlideShare](https://www.slideshare.net/vrstudiolab/ss-250792325)]
 * 白井暁彦, **堀部貴紀**, ブレディキーナ リュドミラ, 山崎勇祐, 坂口塔也, 中村清人, 栢之間諒汰,「【研究ノート】 Mozilla Hubsを用いたオンラインイベントのWebVR化」, DHU JOURNAL Vol.07 2020 (2020/11/26). [[PDF](https://msl.dhw.ac.jp/wp-content/uploads/2020/11/DHUJOURNAL2020_P045.pdf)]
