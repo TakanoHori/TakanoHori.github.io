@@ -11,13 +11,13 @@ GREE VR Studio Laboratory インターン (2019.10~2022.11) [[WEB](https://vr.gr
 | 2018.04 | 明治大学 総合数理学部 先端メディアサイエンス学科 入学 |
 | 2017.03 | 神奈川県 私立 山手学院高等学校 卒業 |
 
-## Awards  
+## Awardss  
 * Yusuke Yamazaki, <u>Takanori Horibe</u>, Akihiko Shirai, "Best Short Paper Award", Cyberworlds2022 [[WEB](https://art-science.org/cyberworlds/cw22/)] [[IEEE](https://ieeexplore.ieee.org/document/9937393)] [[Tweet](https://twitter.com/VRStudioLab/status/1575432742577221633)] [[表彰記事](https://www.meiji.ac.jp/ams/info/mkmht0000001qt8s.html)]
 * <u>堀部貴紀</u>,「音学シンポジウム学生優秀発表賞」, 音学シンポジウム2020 [[WEB](http://www.sigmus.jp/?page_id=4626)] [[表彰記事](http://www.fms-meiji.jp/archives/1399)]
 
 ## Academic Publications  
 ### International Conferences  
-* <u>Takanori Horibe</u>, Masanori Morise, "Development of an easily-usable smartphone application for recording instrumental sounds", Proc. 16th International Symposium on Computer Music Multidisciplinary Research, pp. 728–731, doi: 10.5281/zenodo.10113404 (2023/11/15). [[WEB](https://cmmr2023.gttm.jp)] [[Zenodo](https://zenodo.org/records/10113404)] [[YouTube](https://youtu.be/K-AOkXbkIzY)] [[Poster](posters/cmmr2023_poster_published.pdf)]
+* <u>Takanori Horibe</u>, Masanori Morise, "Development of an easily-usable smartphone application for recording instrumental sounds", Proc. 16th International Symposium on Computer Music Multidisciplinary Research, pp. 728–731, doi: 10.5281/zenodo.10113404 (2023/11/15). [[WEB](https://cmmr2023.gttm.jp)] [[Zenodo](https://zenodo.org/records/10113404)] [[YouTube](https://youtu.be/K-AOkXbkIzY)] [[Poster](posters/cmmr2023_poster_published.pdf)] [[note](https://note.com/takanohori/n/n75d2e34a6811)]
 * Takuma Kato, Tomosuke Nakano, <u>Takanori Horibe</u>, Miku Takemasa, Yusuke Yamazaki, Akihiko Shirai, “Cross-platforming “School life metaverse” user experience”, SIGGRAPH Asia 2022 Posters, No. 47, pp. 1–2, doi: 10.1145/3550082.3564200 (2022/12/01). [[WEB](https://sa2022.siggraph.org/en/presentation/?id=pos_198&sess=sess189)] [[ACM](https://dl.acm.org/doi/10.1145/3550082.3564200)]
 * Yusuke Yamazaki, <u>Takanori Horibe</u>, Akihiko Shirai, "Evaluation of Time-Shifted Emotion Through Shared Emoji Reactions in a Video Watching Experience", 2022 International Conference on Cyberworlds, pp. 110-113, doi: 10.1109/CW55638.2022.00024 (2022/09/27). [[WEB](https://art-science.org/cyberworlds/cw22/)] [[IEEE](https://ieeexplore.ieee.org/document/9937393)] [[SlideShare](https://www.slideshare.net/vrstudiolab/evaluation-of-timeshifted-emotion-through-shared-emoji-reactions-in-a-video-watching-experience-cyberworlds2022)] [[note](https://note.com/reality_eng/n/n0453663261e0)] [[表彰記事](https://www.meiji.ac.jp/ams/info/mkmht0000001qt8s.html)] [[Tweet](https://twitter.com/VRStudioLab/status/1575432742577221633)] 
 
