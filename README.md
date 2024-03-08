@@ -22,6 +22,7 @@ GREE VR Studio Laboratory インターン (2019.10~2022.11) [[WEB](https://vr.gr
 * Yusuke Yamazaki, <u>Takanori Horibe</u>, Akihiko Shirai, "Evaluation of Time-Shifted Emotion Through Shared Emoji Reactions in a Video Watching Experience", 2022 International Conference on Cyberworlds, pp. 110-113, doi: 10.1109/CW55638.2022.00024 (2022/09/27). [[WEB](https://art-science.org/cyberworlds/cw22/)] [[IEEE](https://ieeexplore.ieee.org/document/9937393)] [[SlideShare](https://www.slideshare.net/vrstudiolab/evaluation-of-timeshifted-emotion-through-shared-emoji-reactions-in-a-video-watching-experience-cyberworlds2022)] [[note](https://note.com/reality_eng/n/n0453663261e0)] [[表彰記事](https://www.meiji.ac.jp/ams/info/mkmht0000001qt8s.html)] [[Tweet](https://twitter.com/VRStudioLab/status/1575432742577221633)] 
 
 ### Domestic Conferences  
+* <u>堀部貴紀</u>, 森勢将雅,「音声モーフィングにおける自動対応付けの提案と品質評価」, 日本音響学会2024年春季研究発表会, pp. 1003-1004 (2024/03/07). [[Poster](posters/asj2024s_poster_published.pdf)]
 * <u>堀部貴紀</u>, 森勢将雅,「音声モーフィングにおける音素境界に依存しない自動対応付けの検討」, 第26回日本音響学会関西支部若手研究者交流研究発表会 (2023/12/09). [[WEB](https://asj-kansai.acoustics.jp/event/26wakate/)]
 * 蟹江世莉奈, 小口純矢, <u>堀部貴紀</u>, 森勢将雅,「エレキベースを対象とした楽器音のリリースエンベロープが自然性に与える影響」, 日本音響学会2023年秋季研究発表会, pp. 885-886 (2023/09/26).
 * 田鎖佑弥, <u>堀部貴紀</u>, 小口純矢, 森勢将雅,「リファレンスを必要としない相対的な音質評価に向けたMUSHRA法の改良について」, 日本音響学会2023年秋季研究発表会, pp. 823-824 (2023/09/26).
