@@ -46,7 +46,3 @@ GREE VR Studio Laboratory インターン (2019.10~2022.11) [[WEB](https://vr.gr
 
 ## Blogs  
 [Blogs](Blogs.md)をご覧ください。
-
-## Skills
-### Programming Languages
-Processing, Python, Swift, MATLAB
