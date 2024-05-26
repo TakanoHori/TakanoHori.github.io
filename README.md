@@ -2,8 +2,7 @@
 [[Facebook](https://www.facebook.com/t.takanori.horibe)] [[GitHub](https://github.com/TakanoHori)] [[Qiita](https://qiita.com/TakanoHori)] [[note](https://note.com/takanohori)]
 
 ## Careers  
-明治大学 森勢研究室 (2019.04~2024.03) [[WEB](http://www.isc.meiji.ac.jp/~mmorise/lab/)] [[note](https://note.com/fms_moriselab/m/m4dc0e15c37cf)]  
-GREE VR Studio Laboratory インターン (2019.10~2022.11) [[WEB](https://vr.gree.net/)] [[Twitter](https://twitter.com/VRStudioLab)] [[note](https://note.com/reality_eng/m/m394ac85738b5)] [[SlideShare](https://www.slideshare.net/vrstudiolab)]  
+### Academic background
 
 | Date | |
 | 2024.03 | 明治大学大学院 先端数理科学研究科 先端メディアサイエンス専攻 修了 |
@@ -12,8 +11,13 @@ GREE VR Studio Laboratory インターン (2019.10~2022.11) [[WEB](https://vr.gr
 | 2018.04 | 明治大学 総合数理学部 先端メディアサイエンス学科 入学 |
 | 2017.03 | 神奈川県 私立 山手学院高等学校 卒業 |
 
+### Laboratories  
+
+| 2019.04 - 2024.03 | 明治大学 森勢研究室 | [[WEB](http://www.isc.meiji.ac.jp/~mmorise/lab/)] [[note](https://note.com/fms_moriselab/m/m4dc0e15c37cf)] |
+| 2019.10 - 2022.11 | GREE VR Studio Laboratory インターン | [[WEB](https://vr.gree.net/)] [[Twitter](https://twitter.com/VRStudioLab)] [[note](https://note.com/reality_eng/m/m394ac85738b5)] [[SlideShare](https://www.slideshare.net/vrstudiolab)] |
+
 ## Awards  
-* Yusuke Yamazaki, <u>Takanori Horibe</u>, Akihiko Shirai, "Best Short Paper Award", Cyberworlds2022 [[WEB](https://art-science.org/cyberworlds/cw22/)] [[IEEE](https://ieeexplore.ieee.org/document/9937393)] [[Tweet](https://twitter.com/VRStudioLab/status/1575432742577221633)] [[表彰記事](https://www.meiji.ac.jp/ams/info/mkmht0000001qt8s.html)]
+* Yusuke Yamazaki, <u>Takanori Horibe</u>, Akihiko Shirai, "Best Short Paper Award", Cyberworlds2022 [[WEB](https://art-science.org/cyberworlds/cw22/#awards)] [[IEEE](https://ieeexplore.ieee.org/document/9937393)] [[Tweet](https://twitter.com/VRStudioLab/status/1575432742577221633)] [[表彰記事](https://www.meiji.ac.jp/ams/info/mkmht0000001qt8s.html)]
 * <u>堀部貴紀</u>,「音学シンポジウム学生優秀発表賞」, 音学シンポジウム2020 [[WEB](http://www.sigmus.jp/?page_id=4626)] [[表彰記事](http://www.fms-meiji.jp/archives/1399)]
 
 ## Academic Publications  
@@ -42,7 +46,7 @@ GREE VR Studio Laboratory インターン (2019.10~2022.11) [[WEB](https://vr.gr
 
 ## Tech Conferences  
 * GREE Tech Conference 2022,「GREE VR Studio Laboratory - UXDev R&D Summary 2022」(2022/10/25). [[WEB](https://techcon.gree.jp/2022/session/TrackA-8)] [[YouTube](https://youtu.be/NtmZPiTWyWI)] [[SpeakerDesk](https://speakerdeck.com/gree_tech/greetechcon2022-session-a-8)] (注: 堀部は録画による出演)
-* CEDEC2022,「オープンソースで構築するWebメタバース ～Mozilla Hubsで学ぶUX開発から運用コスト最小化まで」(2022/08/23). [[WEB](https://cedec.cesa.or.jp/2022/session/detail/71)] [[SlideShare](https://www.slideshare.net/vrstudiolab/web-mozilla-hubsux-cedec2022)] [[note](https://note.com/reality_eng/n/n6f6f58caa7da)]
+* CEDEC2022,「オープンソースで構築するWebメタバース ～Mozilla Hubsで学ぶUX開発から運用コスト最小化まで」(2022/08/23). [[WEB](https://cedec.cesa.or.jp/2022/session/detail/71.html)] [[SlideShare](https://www.slideshare.net/vrstudiolab/web-mozilla-hubsux-cedec2022)] [[note](https://note.com/reality_eng/n/n6f6f58caa7da)]
 * GREE Tech Conference 2021,「REALITYアバターを様々なメタバースで活躍させてみた – GREE VR Studio Laboratory インターン研究成果発表」(2021/11/11). [[WEB](https://techcon.gree.jp/2021/session/ShortSession-8)] [[YouTube](https://youtu.be/c0ccys70N4g)] [[SlideShare](https://www.slideshare.net/vrstudiolab/reality-gree-vr-studio-laboratory-250717411)] [[note](https://note.com/reality_eng/n/n3a378aebb380)]
 
 ## Blogs  
