@@ -17,7 +17,7 @@
 | 2019.10 - 2022.11 | GREE VR Studio Laboratory インターン | [[WEB](https://vr.gree.net/)] [[Twitter](https://twitter.com/VRStudioLab)] [[note](https://note.com/reality_eng/m/m394ac85738b5)] [[SlideShare](https://www.slideshare.net/vrstudiolab)] |
 
 ## Awards  
-* Yusuke Yamazaki, <u>Takanori Horibe</u>, Akihiko Shirai, "Best Short Paper Award", Cyberworlds2022 [[WEB](https://art-science.org/cyberworlds/cw22/)] [[IEEE](https://ieeexplore.ieee.org/document/9937393)] [[Tweet](https://twitter.com/VRStudioLab/status/1575432742577221633)] [[表彰記事](https://www.meiji.ac.jp/ams/info/mkmht0000001qt8s.html)]
+* Yusuke Yamazaki, <u>Takanori Horibe</u>, Akihiko Shirai, "Best Short Paper Award", Cyberworlds2022 [[WEB](https://art-science.org/cyberworlds/cw22/#awards)] [[IEEE](https://ieeexplore.ieee.org/document/9937393)] [[Tweet](https://twitter.com/VRStudioLab/status/1575432742577221633)] [[表彰記事](https://www.meiji.ac.jp/ams/info/mkmht0000001qt8s.html)]
 * <u>堀部貴紀</u>,「音学シンポジウム学生優秀発表賞」, 音学シンポジウム2020 [[WEB](http://www.sigmus.jp/?page_id=4626)] [[表彰記事](http://www.fms-meiji.jp/archives/1399)]
 
 ## Academic Publications  
