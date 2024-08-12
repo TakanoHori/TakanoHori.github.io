@@ -21,6 +21,9 @@
 * <u>堀部貴紀</u>,「音学シンポジウム学生優秀発表賞」, 音学シンポジウム2020 [[WEB](http://www.sigmus.jp/?page_id=4626)] [[表彰記事](http://www.fms-meiji.jp/archives/1399)]
 
 ## Academic Publications  
+### Peer-reviewed paper  
+* Fumiyoshi Matano, Yuya Tagusari, <u>Takanori Horibe</u>, Junya Koguchi, Masanori Morise, "Taut-MUSHRA: A MUSHRA-based method without hidden reference and anchors for relative sound quality evaluation", Acoustical Science and Technology, pp. e24.34, doi: 10.1250/ast.e24.34 (Advance online publication). [[JSTAGE](https://doi.org/10.1250/ast.e24.34)]
+
 ### International Conferences  
 * <u>Takanori Horibe</u>, Masanori Morise, "Development of an easily-usable smartphone application for recording instrumental sounds", Proc. 16th International Symposium on Computer Music Multidisciplinary Research, pp. 728–731, doi: 10.5281/zenodo.10113404 (2023/11/15). [[WEB](https://cmmr2023.gttm.jp)] [[Zenodo](https://zenodo.org/records/10113404)] [[YouTube](https://youtu.be/K-AOkXbkIzY)] [[Poster](posters/cmmr2023_poster_published.pdf)] [[note](https://note.com/takanohori/n/n75d2e34a6811)]
 * Takuma Kato, Tomosuke Nakano, <u>Takanori Horibe</u>, Miku Takemasa, Yusuke Yamazaki, Akihiko Shirai, “Cross-platforming “School life metaverse” user experience”, SIGGRAPH Asia 2022 Posters, No. 47, pp. 1–2, doi: 10.1145/3550082.3564200 (2022/12/01). [[WEB](https://sa2022.siggraph.org/en/presentation/?id=pos_198&sess=sess189)] [[ACM](https://dl.acm.org/doi/10.1145/3550082.3564200)]
